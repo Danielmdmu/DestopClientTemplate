@@ -20,6 +20,7 @@ namespace DesktopApp
     {
         public App()
         {
+            InitializeComponent();
         }
     }
 }
